@@ -4,8 +4,8 @@ title: Prakhar CV
 permalink: /cv/
 ---
 
-_(Last updated: (Full): Nov '17 (Short):Apr '17 )_  
+_(Last updated: (Full): July '19 (Short): July '19 )_  
 **[Full][resume full] | [Short][resume short] **
 
-[resume full]: /assets/Prakhar_crst.pdf
-[resume short]:/assets/Prakhar_resume.pdf
+[resume full]: /assets/CV_research.pdf
+[resume short]:/assets/CV_1_page.pdf
