@@ -5,8 +5,8 @@ permalink: /pubs/
 ---
 [Google Scholar Profile]({{ "https://scholar.google.co.in/citations?user=YuFcRF0AAAAJ" }})
 
-
-
+# Publications #
+- Gaurav Verma, Sahil Bansal, Shashank Oberoi, and Makunda Sharma, *Prakhar Gupta*, Vishwa Vinay “Using image captions and multitask learning for recommending query reformulations”, Accepted at ECIR, 2020
 - *Prakhar Gupta*,  Shikib  Mehri,  Tiancheng  Zhao,  Amy  Pavel,  Maxine  Eskenazi  and  Jeffrey P. Bigham, 
 ”Investigating Evaluation of Open-Domain Dialogue Systems With Human Generated Multiple References”, SIGDIAL 2019 [Code]({{ "https://github.com/prakharguptaz/multirefeval" }})
 - *Prakhar Gupta*, Vinayshekhar Bannihatti Kumar, MukulBhutani,  and  Alan  W  Black. 
