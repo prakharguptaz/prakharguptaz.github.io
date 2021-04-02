@@ -6,6 +6,7 @@ permalink: /pubs/
 [Google Scholar Profile]({{ "https://scholar.google.co.in/citations?user=YuFcRF0AAAAJ" }})
 
 # Publications #
+- *Prakhar Gupta*, Jeffrey P. Bigham, Yulia Tsvetkov, and Amy Pavel, 2020. “Controlling Dialogue Generation with Semantic Exemplars”, NAACL 2021  [Link to Paper]({{ "https://arxiv.org/abs/2008.09075" }})
 - Gaurav Verma, Sahil Bansal, Shashank Oberoi, and Makunda Sharma, *Prakhar Gupta*, Vishwa Vinay “Using image captions and multitask learning for recommending query reformulations”, Accepted at ECIR, 2020
 - *Prakhar Gupta*,  Shikib  Mehri,  Tiancheng  Zhao,  Amy  Pavel,  Maxine  Eskenazi  and  Jeffrey P. Bigham, 
 ”Investigating Evaluation of Open-Domain Dialogue Systems With Human Generated Multiple References”, SIGDIAL 2019 [Code]({{ "https://github.com/prakharguptaz/multirefeval" }})
