@@ -7,12 +7,12 @@ permalink: /pubs/
 
 # Publications #
 - *Prakhar Gupta*, Yulia Tsvetkov, Jeffrey P. Bigham, “Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation”, ACL 2021 (Findings) (Online version to appear soon)
-- *Prakhar Gupta*, Jeffrey P. Bigham, Yulia Tsvetkov, and Amy Pavel. “Controlling Dialogue Generation with Semantic Exemplars”, NAACL 2021  [Link to Paper]({{ "https://arxiv.org/abs/2008.09075" }})
-- Gaurav Verma, Sahil Bansal, Shashank Oberoi, and Makunda Sharma, *Prakhar Gupta*, Vishwa Vinay “Using image captions and multitask learning for recommending query reformulations”, Accepted at ECIR, 2020
+- *Prakhar Gupta*, Jeffrey P. Bigham, Yulia Tsvetkov, and Amy Pavel. “Controlling Dialogue Generation with Semantic Exemplars”, NAACL 2021 [Link to Paper]({{ "https://arxiv.org/abs/2008.09075" }})
+- Gaurav Verma, Sahil Bansal, Shashank Oberoi, and Makunda Sharma, *Prakhar Gupta*, Vishwa Vinay “Using image captions and multitask learning for recommending query reformulations”, ECIR 2020 [Link to Paper]({{ "https://arxiv.org/abs/2003.00708" }})
 - *Prakhar Gupta*,  Shikib  Mehri,  Tiancheng  Zhao,  Amy  Pavel,  Maxine  Eskenazi  and  Jeffrey P. Bigham, 
 ”Investigating Evaluation of Open-Domain Dialogue Systems With Human Generated Multiple References”, SIGDIAL 2019 [Code]({{ "https://github.com/prakharguptaz/multirefeval" }})
 - *Prakhar Gupta*, Vinayshekhar Bannihatti Kumar, MukulBhutani,  and  Alan  W  Black. 
-”Writerforcing:Generating more interesting story endings.” In Proceedings of the Second Workshop on Storytelling. Association for Computational Linguistics, 2019. [Link to Paper]({{ "http://arxiv.org/abs/1907.08259" }})
+”Writerforcing:Generating more interesting story endings.” In Proceedings of the Second Workshop on Storytelling, ACL 2019. [Link to Paper]({{ "http://arxiv.org/abs/1907.08259" }})
 - *Prakhar Gupta*, Gaurush Hiranandani, Harvineet Singh, Branislav Kveton, Zheng Wen, Iftikhar Ahamath Burhanuddin 
 ”Cascade Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank”, in Proceedings of the 35th Annual Conference on Uncertainty in Artificial Intelligence (UAI 2019)
 - *Prakhar Gupta*, Shubh Gupta, Ajaykrishnan Gopalan, Sourav Pal, and Ritwik Sinha. 
