@@ -14,7 +14,7 @@ permalink: /pubs/
 - *Prakhar Gupta*, Vinayshekhar Bannihatti Kumar, MukulBhutani,  and  Alan  W  Black. 
 ”Writerforcing:Generating more interesting story endings.” In Proceedings of the Second Workshop on Storytelling, ACL 2019. [Link to Paper]({{ "http://arxiv.org/abs/1907.08259" }})
 - *Prakhar Gupta*, Gaurush Hiranandani, Harvineet Singh, Branislav Kveton, Zheng Wen, Iftikhar Ahamath Burhanuddin 
-”Cascade Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank”, in Proceedings of the 35th Annual Conference on Uncertainty in Artificial Intelligence (UAI 2019)
+”Cascade Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank”, in Proceedings of the 35th Annual Conference on Uncertainty in Artificial Intelligence, UAI 2019 [Link to Paper]({{ "http://auai.org/uai2019/proceedings/papers/248.pdf" }})
 - *Prakhar Gupta*, Shubh Gupta, Ajaykrishnan Gopalan, Sourav Pal, and Ritwik Sinha. 
 ”Saliency Prediction for Mobile User Interfaces” (to appear) In Winter Conference on Applications of Computer Vision (WACV), 2018 [Link to Paper]({{ "https://arxiv.org/abs/1711.03726" }}).
 - Kokil Jaidka, Kaushik Ramachandran, *Prakhar Gupta*, and Sajal Rustagi. 
