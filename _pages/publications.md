@@ -6,7 +6,7 @@ permalink: /pubs/
 [Google Scholar Profile]({{ "https://scholar.google.co.in/citations?user=YuFcRF0AAAAJ" }})
 
 # Publications #
-- *Prakhar Gupta*, Yulia Tsvetkov, Jeffrey P. Bigham, “Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation”, ACL 2021 (Findings) (Online version to appear soon)
+- *Prakhar Gupta*, Yulia Tsvetkov, Jeffrey P. Bigham, “Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation”, Findings of ACL 2021 (Online version to appear soon)
 - *Prakhar Gupta*, Jeffrey P. Bigham, Yulia Tsvetkov, and Amy Pavel. “Controlling Dialogue Generation with Semantic Exemplars”, NAACL 2021 [Link to Paper]({{ "https://arxiv.org/abs/2008.09075" }})
 - Gaurav Verma, Sahil Bansal, Shashank Oberoi, and Makunda Sharma, *Prakhar Gupta*, Vishwa Vinay “Using image captions and multitask learning for recommending query reformulations”, ECIR 2020 [Link to Paper]({{ "https://arxiv.org/abs/2003.00708" }})
 - *Prakhar Gupta*,  Shikib  Mehri,  Tiancheng  Zhao,  Amy  Pavel,  Maxine  Eskenazi  and  Jeffrey P. Bigham, 
