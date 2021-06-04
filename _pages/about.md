@@ -10,7 +10,6 @@ Recent News
 * June 2021: I joined Salesforce Research as an Intern for Summer 2021.
 * May, 2021 Our work “Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation” [Link to Paper]({{ "/assets/ACL_Paper_negaug.pdf" }})got accepted at Findings of ACL 2021
 * May, 2021 Presenting our paper [Controlling Dialogue Generation with Semantic Exemplars](https://www.aclweb.org/anthology/2021.naacl-main.240/) at NAACL 2021
-* January, 2021  
 * August, 2019. Presenting our paper Investigating Evaluation of Open-Domain Dialogue Systems With Human Generated Multiple References t SIGDIal 2019
 * July, 2019. Our paper on story generation has been featured in over three articles. Check it out!
     * [Storytelling Bots Learn To Punch Up Their Last Lines](https://www.cs.cmu.edu/news/storytelling-bots-learn-punch-their-last-lines)
